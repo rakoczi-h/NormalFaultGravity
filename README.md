@@ -2,7 +2,7 @@
 
 Python tools to create a displacement profile of a normal fault from a handful of parameters defining its location and geometry. Then, the gravity anomaly from this fault can be computed using a Fourier domain forward modelling technique (Parker 1972).
 
-![Illustration of the 2D displacement profile of a simulated fault and the corresponding gravity anomaly.](plots/gravity_effect_of_fault.png)
+![Illustration of the 2D displacement profile of a simulated fault and the corresponding gravity anomaly.](plots/gravity_effect_of_fault.jpg)
 ---
 
 ## Environment Setup
