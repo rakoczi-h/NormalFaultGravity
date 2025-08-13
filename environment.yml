@@ -1,0 +1,9 @@
+name: faultenv
+channels:
+  - defaults
+dependencies:
+  - plotly
+  - scikit-learn
+  - matplotlib
+  - numpy
+  - scikit-image
